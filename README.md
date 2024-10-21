@@ -1,7 +1,7 @@
 # Notes App
 
 A simple yet powerful Notes App built with React that allows users to create, manage, and organize notes efficiently. The app features dynamic color assignment for notes, local storage for persistence, a search filter for quick access, and a dark/light mode toggle for enhanced user experience.
-
+// color theme dark/light mode
 ![Screenshot from 2024-10-21 12-49-01](https://github.com/user-attachments/assets/7adc15ae-414b-4869-8479-e63331f7d395)
 
 ![Screenshot from 2024-10-21 12-49-03](https://github.com/user-attachments/assets/860306b0-7377-4b66-b294-639f4d12951c)
